@@ -1,3 +1,4 @@
+# TeachMeSkills_C27_lesson_20_HW
 ### Task 1:
 1. Created a program simulating morning: reading news, breakfast, coffee.
 2. Each thread is given a name and priority from the configuration file.
